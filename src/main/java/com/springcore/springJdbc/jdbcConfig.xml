@@ -13,7 +13,7 @@
            		    <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
 			        <property name="url" value="jdbc:mysql://localhost:3306/springJdbc"/>
 			        <property name="username" value="root"/>
-			        <property name="password" value="9914"/>
+			        <property name="password" value="9914" />
            
            </bean>
            

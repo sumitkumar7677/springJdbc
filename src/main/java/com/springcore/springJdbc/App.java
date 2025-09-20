@@ -20,7 +20,7 @@ public class App
         //Insert Query
         String query = "insert into student (id,name,address) values (?,?,?)";
         
-        int result = template.update(query,12345,"Sumit Kumar","Nalanda");
+        int result = template.update(query,12345,"Sumit Kummar","Nalanda");
         System.out.println("No of row Inserted : " + result);
         
     }
